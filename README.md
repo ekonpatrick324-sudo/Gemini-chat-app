@@ -18,3 +18,8 @@ View your app in AI Studio: https://ai.studio/apps/737e734e-405d-4bf7-9527-63107
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+## Native Android Browser Architecture Proposal
+
+See `docs/native-android-browser-architecture.md` for a full production-grade native Android browser architecture blueprint (Rust + Chromium embedding, no JS/HTML/CSS UI).
+
